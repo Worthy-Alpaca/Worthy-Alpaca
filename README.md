@@ -19,7 +19,7 @@ Nothing much to see here. Just an Alpaca trying to code with hooves.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Worthy Alpaca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Worthy-Alpaca&show_icons=true&hideborder=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=22de09&icon_color=22de09&bg_color=000000" />
+    <img align="center" alt="Worthy Alpaca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Worthy-Alpaca&show_icons=true&hideborder=true&count_private=true&include_all_commits=true&theme=dark" />
 
 <!--</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
