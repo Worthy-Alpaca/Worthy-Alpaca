@@ -14,6 +14,8 @@ Nothing much to see here. Just an Alpaca trying to code with hooves.
 <a href="https://npmjs.org/"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></a>
 <a href="https://python.org/"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
 <a href="https://tensorflow.org/"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></a>
+<a href="https://pytorch.org/"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></a>
+<a href="https://optuna.org/"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/optuna/optuna.png"></a>
 
 ---
 
