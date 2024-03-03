@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nothing much to see here. Just an Alpaca trying to code with hooves.
+
 
 <br />
 
